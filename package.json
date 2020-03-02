@@ -1,0 +1,19 @@
+{
+  "name": "newcampsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Tyler Maxwell",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "lite-server": "^2.5.4"
+  }
+}
