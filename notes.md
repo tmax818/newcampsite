@@ -28,3 +28,11 @@ $ npm i bootstrap jquery lite-server popper.js -D
 ```bash
 $ git checkout -b 03resWebDes
 ```
+
+- screen resolution and viewport
+  
+  - viewport meta tag
+  - media query(@media rule)
+  - bootstrap has done the hard work
+  - learn to use the bootstrap classes that use the breakpoints
+
