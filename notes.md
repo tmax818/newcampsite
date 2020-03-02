@@ -22,3 +22,9 @@ $ npm i bootstrap jquery lite-server popper.js -D
 
 - create [index.html](index.html)
   - see comments for added scripts
+
+- created a new branch:
+
+```bash
+$ git checkout -b 03resWebDes
+```
