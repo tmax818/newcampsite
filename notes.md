@@ -36,3 +36,18 @@ $ git checkout -b 03resWebDes
   - bootstrap has done the hard work
   - learn to use the bootstrap classes that use the breakpoints
 
+- bootstrap grid
+  - mobile-first
+  - based on CSS flexbox
+  - [example.html](example.html) always need the following for a bootstrap grid:
+
+```html
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                Content
+            </div>
+    </div>
+```
+- try container-fluid
+- each row can have up to twelve columns 
